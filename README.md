@@ -1,2 +1,2 @@
-# why-hello-there
-ok fineeeeeeeee
+# collisionAlgorithm
+Algorithm to detect collision between two objects
